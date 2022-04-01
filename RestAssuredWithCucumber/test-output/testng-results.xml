@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2226" started-at="2022-04-01T09:44:27 IST" finished-at="2022-04-01T09:44:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2226" started-at="2022-04-01T09:44:27 IST" finished-at="2022-04-01T09:44:29 IST">
+      <class name="Stepdefine.Restassuredmethod">
+        <test-method status="PASS" signature="test_postmethod(java.lang.String, java.lang.String, int)[pri:0, instance:Stepdefine.Restassuredmethod@1282abb]" name="test_postmethod" duration-ms="2130" started-at="2022-04-01T09:44:27 IST" data-provider="test_Post" finished-at="2022-04-01T09:44:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kau]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_postmethod -->
+        <test-method status="PASS" signature="test_postmethod(java.lang.String, java.lang.String, int)[pri:0, instance:Stepdefine.Restassuredmethod@1282abb]" name="test_postmethod" duration-ms="25" started-at="2022-04-01T09:44:29 IST" data-provider="test_Post" finished-at="2022-04-01T09:44:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bisba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_postmethod -->
+      </class> <!-- Stepdefine.Restassuredmethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
